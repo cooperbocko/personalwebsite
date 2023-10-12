@@ -1,0 +1,41 @@
+#header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+
+    margin-right: 15px;
+    margin-top: 30px;
+
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+#footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: white;
+
+    position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      text-align: center;
+    padding-bottom: 8px;
+    padding-top: 8px;
+
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: black;
+
+}
+
+#content-wrap {
+    padding-bottom: 36px;
+}

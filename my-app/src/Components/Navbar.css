@@ -1,0 +1,20 @@
+#header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+
+    margin-right: 15px;
+    margin-top: 30px;
+
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: black;
+}
+ul {
+    padding-left: 10px;
+}
