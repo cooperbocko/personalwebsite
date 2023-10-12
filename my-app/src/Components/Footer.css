@@ -1,15 +1,3 @@
-#header {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 18px;
-    font-weight: bold;
-
-    margin-right: 15px;
-    margin-top: 30px;
-
-    display: flex;
-    justify-content: flex-end;
-    gap: 20px;
-}
 
 #footer {
     font-family: 'Courier New', Courier, monospace;
@@ -34,8 +22,4 @@ a, a:visited {
     text-decoration: none;
     color: black;
 
-}
-
-#content-wrap {
-    padding-bottom: 36px;
 }
