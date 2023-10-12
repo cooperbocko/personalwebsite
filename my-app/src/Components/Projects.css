@@ -29,3 +29,11 @@ a, a:visited {
     text-decoration: none;
     color: red;
 }
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 300px;
+}
